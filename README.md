@@ -7,7 +7,7 @@ This was originally conceived to log all network connections and the sha256 hash
 
 Currently the project only dumps output to the os console as shown:
 
-
+![](example.png)
 
 - Thread locking is used to ensure there are no significant overhead issues.
 - Hashing is performed by accessing the file system from with-in the kernel (magic? ;p).
