@@ -43,3 +43,4 @@ OS X and iOS Kernel Programming - Ole Henry Halvorsen | Douglas Clarke
 
 Please refer to LICENSE file.
 
+NOTE: This is a POC, I'm not a professional kernel developer!
