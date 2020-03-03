@@ -38,7 +38,7 @@ sudo kextutil FilterKit.kext
 
 Hashing libraries Alain Mosnier - https://github.com/amosnier/sha-2
 
-OS X and iOS Kernel Programming - Ole Henry Halvorsen | Douglas Clarke
+General goodness - OS X and iOS Kernel Programming - Ole Henry Halvorsen | Douglas Clarke
 
 # Disclaimer
 
