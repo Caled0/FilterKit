@@ -1,7 +1,7 @@
 # FilterKit
 MacOS kernel security filter
 
-This is a POC for a socket and process filter for MacOS (currently only tested under Mojave)
+This is a POC for a socket and process filter for MacOS (currently only tested under Mojave/xCode 11)
 
 This was originally conceived to log all network connections and the sha256 hash of their corresponding processes at the kernel level. The idea was to pipe this data directly out to a server. By not utilizing user-space, this "canary" can drop all the data needed for security auditing whilst staying relatively obscured.
 
