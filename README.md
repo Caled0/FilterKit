@@ -10,7 +10,7 @@ Currently the project only dumps output to the os console as shown:
 ![](example.png)
 
 - Thread locking is used to ensure there are no significant overhead issues.
-- Hashing is performed by accessing the file system from with-in the kernel (magic? ;p).
+- Hashing is performed by accessing the file system from with-in the kernel (magic?).
 
 Known Issues:
 - MacOS forwards all inbound connections via the local firewall, thus inbound user-space traffic will always have the same destination process (com.apple.WebKit).
