@@ -23,7 +23,7 @@ Todo:
 - Function to send data to server
 - Possibly add file-write events
 - Server side implementation
-- Fix unloading bugs
+- Fix unloading bug
 - Clean up includes
 - Optimize / Buffer ?
 
