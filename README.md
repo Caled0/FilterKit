@@ -25,6 +25,7 @@ Todo:
 - Server side implementation
 - Fix unloading bugs
 - Clean up includes
+- Optimize / Buffer / UDP ?
 
 # Usage
 ```
